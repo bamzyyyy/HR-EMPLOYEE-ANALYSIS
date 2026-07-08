@@ -1,0 +1,67 @@
+﻿Employee_ID,Full_Name,Department,Job_Grade,Location,Date_Joined,Employment_Type,Gender,Gross_Salary_NGN,Tax_NGN,Pension_NGN,Net_Salary_NGN,Days_Leave_Entitled,Days_Leave_Taken,Days_Leave_Remaining,Performance_Score,Performance_Rating,Training_Hours_2024,Exit_Status
+EMP-001,Adaeze Okonkwo,Finance,Grade 4,Lagos,3/15/19,Full-Time,F,420000,63000,46200,310800,21,14,7,88,Excellent,24,Active
+EMP-002,Babatunde Akande,HR,Grade 3,Abuja,2020-07-01,Full-Time,M,310000,46500,34100,229400,21,21,0,74,Good,18,Active
+EMP-003,Chinyere Eze,Operations,Grade 5,Lagos,2017-01-10,Full-Time,F,580000,87000,63800,429200,21,7,14,92,Excellent,32,Active
+EMP-004,Damilola Afolabi,IT,Grade 3,Port Harcourt,2021-04-22,Contract,M,275000,41250,30250,203500,14,14,0,68,Good,15,Active
+EMP-005,Emeka Nwachukwu,Finance,Grade 5,lagos,2016-09-05,Full-Time,M,620000,93000,68200,458800,21,10,11,95,Excellent,40,Active
+EMP-006,Fatima Aliyu,HR,Grade 2,Abuja,2022-11-14,Full-Time,F,220000,33000,24200,162800,21,5,16,55,Average,8,Active
+EMP-007,Grace Okafor,Operations,Grade 3,Lagos,2020-02-28,Full-Time,F,305000,45750,33550,225700,21,21,0,79,Good,22,Active
+EMP-008,Hassan Garba,IT,Grade 4,Abuja,2018-06-17,Full-Time,M,410000,61500,45100,303400,21,3,18,85,excellent,28,Active
+EMP-009,Ifeoma Chukwu,Marketing,Grade 3,Lagos,2021-08-09,Full-Time,F,295000,44250,32450,218300,21,0,21,0,Needs Review,0,Active
+EMP-010,James Adeleke,Finance,Grade 6,Lagos,2014-03-20,Full-Time,M,850000,127500,93500,629000,21,14,7,96,Excellent,45,Active
+EMP-011,Kemi Balogun,Marketing,Grade 2,Ibadan,2023-01-16,Contract,F,195000,29250,21450,144300,14,7,7,62,Average,10,Active
+EMP-012,Lawal Musa,Operations,Grade 4,Kano,2019-10-03,Full-Time,M,390000,58500,42900,288600,21,21,0,77,Good,20,Active
+EMP-013,Mercy Osei,HR,Grade 3,Lagos,2020-05-11,Full-Time,F,315000,47250,34650,233100,21,14,7,81,Good,19,Active
+EMP-014,Ngozi Dike,Finance,Grade 4,Enugu,2018-12-01,Full-Time,F,405000,60750,44550,299700,21,21,0,89,Excellent,30,Active
+EMP-015,Obinna Ike,IT,Grade 5,Lagos,2016-07-25,Full-Time,M,590000,88500,64900,436600,21,7,14,91,Excellent,38,Active
+EMP-016,Patience Obi,Operations,Grade 2,Port Harcourt,2022-09-05,Full-Time,F,215000,32250,23650,159100,21,14,7,58,Average,9,Active
+EMP-017,Quadri Adeyemi,Marketing,Grade 4,LAGOS,2019-04-14,Full-Time,M,385000,57750,42350,284900,21,0,21,0,Needs Review,5,Active
+EMP-018,Rashida Umar,HR,Grade 2,Abuja,2023-03-20,Contract,F,210000,31500,23100,155400,14,0,14,70,Good,12,Active
+EMP-019,Samuel Taiwo,Finance,Grade 3,Lagos,2021-02-15,Full-Time,M,320000,48000,35200,236800,21,7,14,76,Good,17,Active
+EMP-020,Tolu Adesanya,Operations,Grade 6,Abuja,2013-11-08,Full-Time,F,920000,138000,101200,680800,21,21,0,94,Excellent,50,Active
+EMP-021,Uche Onuoha,IT,Grade 4,Enugu,2018-08-22,Full-Time,M,415000,62250,45650,307100,21,14,7,83,Good,25,Active
+EMP-022,Victoria Eze,Marketing,Grade 5,Lagos,2015-06-30,Full-Time,F,560000,84000,61600,414400,21,21,0,90,Excellent,35,Active
+EMP-023,Wasiu Bello,HR,Grade 4,Lagos,2018-01-22,Full-Time,M,400000,60000,44000,296000,21,7,14,78,Good,21,Active
+EMP-024,Xenia Okonkwo,Finance,Grade 3,Abuja,2022-05-10,Full-Time,F,305000,45750,33550,225700,21,0,21,72,Good,14,Active
+EMP-025,Yusuf Salami,Operations,Grade 3,Kano,2021-06-01,Full-Time,M,295000,44250,32450,218300,21,14,7,65,Average,11,Active
+EMP-026,Zainab Mohammed,IT,Grade 2,Abuja,2023-07-17,Contract,F,205000,30750,22550,,14,0,14,60,Average,8,Active
+EMP-027,Amara Obi,Marketing,Grade 3,Lagos,2020-09-28,Full-Time,F,310000,46500,34100,229400,21,21,0,75,Good,18,Active
+EMP-028,Biodun Ogundimu,Finance,Grade 5,Lagos,2016-11-14,Full-Time,M,610000,91500,67100,451400,21,14,7,88,EXCELLENT,33,Active
+EMP-029,Chioma Nwosu,HR,Grade 3,Port Harcourt,2020-04-06,Full-Time,F,320000,48000,35200,236800,21,7,14,80,Good,20,Active
+EMP-030,David Okafor,Operations,Grade 4,Lagos,2018-03-19,Full-Time,M,395000,59250,43450,292300,21,21,0,82,Good,24,Active
+EMP-031,Eno Effiong,IT,Grade 5,Port Harcourt,2016-05-03,Full-Time,F,575000,86250,63250,425500,21,7,14,93,Excellent,37,Active
+EMP-032,Femi Adebayo,Marketing,Grade 4,Ibadan,2019-08-11,Full-Time,M,380000,57000,41800,281200,21,14,7,73,Good,16,Active
+EMP-033,Gloria Nze,Finance,Grade 2,Enugu,2023-02-27,Full-Time,F,215000,32250,23650,159100,21,5,16,55,Average,7,Active
+EMP-034,Henry Obi,Operations,Grade 3,Lagos,2021-10-04,Full-Time,M,290000,43500,31900,214600,21,0,21,0,Needs Review,3,Active
+EMP-035,Ify Nkemdirim,HR,Grade 5,Abuja,2015-12-01,Full-Time,F,540000,81000,59400,399600,21,21,0,86,excellent,30,Active
+EMP-036,Julius Adeyinka,IT,Grade 3,Lagos,2021-03-15,Contract,M,270000,40500,29700,200000,14,7,7,71,Good,13,Exited
+EMP-037,Kola Akinwale,Marketing,Grade 3,Lagos,2020-11-22,Full-Time,M,300000,45000,33000,222000,21,14,7,78,Good,18,Active
+EMP-038,Lola Fashola,Finance,Grade 6,Lagos,2012-08-30,Full-Time,F,980000,147000,107800,,21,14,7,97,Excellent,55,Active
+EMP-039,Moses Adamu,Operations,Grade 2,Kano,2022-12-05,Full-Time,M,210000,31500,23100,155400,21,0,21,52,Average,6,Active
+EMP-040,Nkechi Okonkwo,HR,Grade 4,Lagos,2017-07-14,Full-Time,F,410000,61500,45100,303400,21,21,0,84,Good,26,Active
+EMP-041,Osaro Osagie,IT,Grade 4,Benin,2018-10-09,Full-Time,M,405000,60750,44550,299700,21,14,7,82,Good,23,Active
+EMP-042,Priscilla Udo,Marketing,Grade 2,Port Harcourt,2023-05-15,Contract,F,200000,30000,22000,148000,14,7,7,58,Average,9,Active
+EMP-043,Rafiu Olanrewaju,Finance,Grade 4,Ibadan,2019-01-28,Full-Time,M,400000,60000,44000,296000,21,7,14,87,Excellent,27,Active
+EMP-044,Sandra Ekwueme,Operations,Grade 5,Lagos,2015-09-21,Full-Time,F,555000,83250,61050,410700,21,21,0,89,Excellent,36,Active
+EMP-045,Taiwo Olawale,IT,Grade 3,Abuja,2022-01-10,Full-Time,M,280000,42000,30800,207200,21,7,14,69,Good,14,Active
+EMP-046,Uzo Agwu,Marketing,Grade 5,Lagos,2016-02-14,Full-Time,F,545000,81750,59950,403300,21,14,7,91,Excellent,38,Active
+EMP-047,Vincent Okwu,HR,Grade 3,Abuja,2021-09-03,Full-Time,M,305000,45750,33550,225700,21,0,21,0,Needs Review,4,Active
+EMP-048,Wunmi Abiodun,Finance,Grade 3,Lagos,2022-07-19,Full-Time,F,315000,47250,34650,,21,7,14,74,Good,15,Active
+EMP-049,Xavier Obi,Operations,Grade 4,Enugu,2018-05-07,Full-Time,M,390000,58500,42900,288600,21,21,0,80,Good,21,Active
+EMP-050,Yetunde Adegoke,IT,Grade 6,Lagos,2014-01-20,Full-Time,F,890000,133500,97900,,21,7,14,95,Excellent,48,Active
+EMP-051,Zara Musa,Marketing,Grade 2,Kano,2023-06-12,Contract,F,195000,29250,21450,144300,14,0,14,60,Average,8,Active
+EMP-052,Akin Salau,Finance,Grade 3,Abuja,2021-11-30,Full-Time,M,325000,48750,35750,240500,21,14,7,73,Good,16,Active
+EMP-053,Bisi Ogundele,Operations,Grade 2,Lagos,2023-08-01,Full-Time,F,205000,30750,22550,151700,21,0,21,50,Average,5,Active
+EMP-054,Chidi Okafor,HR,Grade 5,Abuja,2015-04-18,Full-Time,M,530000,79500,58300,392200,21,14,7,87,EXCELLENT,31,Active
+EMP-055,Dapo Adesanya,IT,Grade 4,Lagos,2019-06-24,Full-Time,M,420000,63000,46200,310800,21,7,14,84,Good,26,Active
+EMP-056,Eucharia Nweke,Marketing,Grade 3,Enugu,2020-12-07,Full-Time,F,300000,45000,33000,222000,21,21,0,76,Good,17,Active
+EMP-057,Fola Ogunleye,Finance,Grade 4,Lagos,2018-09-16,Full-Time,F,410000,61500,45100,303400,21,7,14,88,Excellent,28,Active
+EMP-058,Gbenga Adeyemi,Operations,Grade 3,Ibadan,2021-07-05,Full-Time,M,285000,42750,31350,210900,21,14,7,66,Average,12,Active
+EMP-059,Hauwa Abubakar,HR,Grade 2,Abuja,2023-04-10,Contract,F,210000,31500,23100,155400,14,7,7,65,Average,10,Active
+EMP-060,Ifeanyi Obi,IT,Grade 5,Lagos,2017-03-28,Full-Time,M,570000,85500,62700,,21,14,7,0,Needs Review,2,Active
+EMP-030,David Okafor,Operations,Grade 4,Lagos,2018-03-19,Full-Time,M,395000,59250,43450,292300,21,21,0,82,Good,24,Active
+EMP-061,Joy Eze,Marketing,Grade 4,Lagos,2019-02-11,Full-Time,F,385000,57750,42350,284900,21,21,0,83,Good,22,Active
+EMP-062,Kunle Adekoya,Finance,Grade 5,Abuja,2016-08-19,Full-Time,M,600000,90000,66000,444000,21,7,14,90,Excellent,36,Active
+EMP-063,Lilian Okonkwo,Operations,Grade 3,Port Harcourt,2021-05-26,Full-Time,F,295000,44250,32450,218300,21,7,14,75,Good,17,Active
+EMP-064,Mike Adamu,IT,Grade 4,Abuja,2018-11-12,Full-Time,M,415000,62250,45650,307100,21,14,7,81,Good,24,Active
+EMP-065,Ngozi Abiodun,hr,Grade 3,LAGOS,2020-10-15,Full-Time,F,310000,46500,34100,229400,21,0,21,0,Needs Review,1,Exited
